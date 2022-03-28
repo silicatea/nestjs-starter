@@ -5,7 +5,7 @@ It also comes with class-validator and @nestjs/config, so it has everything to s
 ## Installation
 
 ```bash
-$ Yarn install
+$ yarn install
 ```
 Then, create a .env on the root of the project, with the following keys:
 TYPEORM_CONNECTION -> sql type(MariaDB, MySQL, PostgresSQL, etc)
