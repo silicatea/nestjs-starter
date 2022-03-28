@@ -28,6 +28,5 @@ $ yarn run start:dev
 $ yarn start:prod
 ```
 
-## Stay in touch
 
 - My LinkedIn: https://www.linkedin.com/in/mdanl/
